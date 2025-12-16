@@ -28,7 +28,7 @@ I have developed code to interrogate this data to understand whether these featu
 3. Click Kernal - Restart Kernal and run all cells
 
 # Data
-Dataset used in this project is a public dataset from Kaggle:
+The dataset used in this project is a publicly available dataset from Kaggle:
 - https://www.kaggle.com/datasets/ruslankl/early-biomarkers-of-parkinsons-disease
 - located in the "data/" folder titled "project_dataset.csv"
 
