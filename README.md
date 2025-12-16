@@ -2,14 +2,14 @@
 # Analsysis of Potential Early Biomarkers for Parkinson's Disease
 
 # Overview of Project
-This project seeks to understand whether there are early biomarkers for Parkinson's disease, by analysing a public dataset (acquired from Kaggle). The dataset involves 3 groups of patients;
+This project seeks to understand whether there are measureable differences in speech and respiratory features between healthy participants and those with Parkinson's disease and REM sleep behaviour disorders. In doing so, this could shed light on potential early biomarkers for Parkinson's disease. This work was carried out by analysing a public dataset (acquired from Kaggle). The dataset involves 3 groups of patients;
 
 1. PD = Patients with Parkinson's disease
 2. RBD = patients who are at a high risk of developing Parkinson's disease
 3. HC = Healthy controls
 
-The dataset includes measurements of parkinson's symptoms, for example respiratory and movement features.
-I have developed code to interrogate this data to understand whether these features could be used as early biomarkers for diagnosing Parkinson's disease.
+The dataset includes demographic, medical history, and  respiratory and movement features.
+I have developed code to interrogate this data to understand whether these features could be used to distinguish these participant groups and thereby be used as early biomarkers for diagnosing Parkinson's disease.
 
 # Contents
 1. Code for project.ipynb = Jupyter notebook with code and analysis of dataset
