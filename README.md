@@ -23,7 +23,10 @@ I have developed code to interrogate this data to understand whether these featu
 5. jupyterlab
 
 # How to run
-1. open Jupyter lab
+1. Clone this repository
+2. Create and activate a virtual environment in gitbash
+3. install Jupyter notebook
+1. Start Jupyter notebook
 2. Open "Code for project.ipynb"
 3. Click Kernal - Restart Kernal and run all cells
 
