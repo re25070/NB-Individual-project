@@ -23,12 +23,12 @@ I have developed code to interrogate this data to understand whether these featu
 5. jupyterlab
 
 # How to run
-1. Clone this repository
+1. Clone this repository using the html link
 2. Create and activate a virtual environment in gitbash
-3. install Jupyter notebook
+3. Install Jupyter notebook
 1. Start Jupyter notebook
 2. Open "Code for project.ipynb"
-3. Click Kernal - Restart Kernal and run all cells
+3. Click on "Kernal" on the top menu bar - "Restart Kernal and run all cells"
 
 # Data
 The dataset used in this project is a publicly available dataset from Kaggle:
